@@ -6,8 +6,7 @@ consistently and aligned with each user's role within the organization. <br />
 - Okta
 <h2>Operating Systems Used </h2>
 - Windows 11
-<h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments. All of the rules
+<h2>The groups are titled Collections, Human Resources,and Sales/Admin departments. All of the rules
 automatically assign users to said groups upon Activation.</h2>
 <p>
-<img width="1072" height="667" alt="image"
-src="https://github.com/user-attachments/assets/11f546df-a1b9-4116-9d62-4152b62dde20" />
+<img width="959" height="475" alt="ABAC Rules in Okta" src="https://github.com/user-attachments/assets/7026bb44-6ff2-45a7-83c0-3a3420e0c841" />
